@@ -9,7 +9,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Ingresar</title>
+    <title>Registrarse</title>
     <!-- Font Icon -->
     <link rel="stylesheet" href="/fonts/material-icon/css/material-design-iconic-font.min.css">
     <!-- Main css -->
@@ -102,7 +102,7 @@
                             <div class="form-group">
                                 <input type="checkbox" name="agree-term" id="agree-term" class="agree-term"  required="required"/>
                                 <label for="agree-term" class="label-agree-term"><span><span></span></span>Estoy de acuerdo con todos los
-                                <a href="#" class="term-service">términos y condiciones</a></label>
+                                <a href="#" class="term-service">terminos y condiciones</a></label>
                             </div>
                             <div class="form-group form-button">
                                 <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
